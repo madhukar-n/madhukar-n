@@ -1,0 +1,16 @@
+- name: Madhukar Nallamadha
+  photo: madhukar.jpg
+  info: Madhukar Reddy Nallamadha  Graduate Research Assistant,Indian Institue of Technology,Hyderabad
+  email: anveshnallamadha@gmail.com
+  github: https://github.com/madhukar-n
+  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  x: https://x.com/samgamgee666
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(2028) M.Tech Computer Science, IIT Hyderabad",
+      "(2025) B.Tech Computer Science, CVRCE,Hyderabad",
+    ]
+
+  educationshort:
+    ["(2028) MTech CSE, IITH"]
